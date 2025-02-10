@@ -1,2 +1,2 @@
 # login page
- exemplo de pagina de login com html5 e css.
+ Exemplo de pagina de login usando HTML5 e CSS. 
